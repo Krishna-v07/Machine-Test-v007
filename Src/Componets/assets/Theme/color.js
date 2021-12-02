@@ -1,0 +1,16 @@
+export default {
+    success: "#169d1c",
+    primary: "#035ffa",
+    secondary: "#4d4d4d",
+    danger: "#d50902",
+    gray: "#333333",
+    white: "#FFFFFF",
+    red:"#F13E47",
+    textbg:"#E6EDEF",
+    black:"#000000",
+    tbgcolor:"#EDEFEE",
+    inputtextcolor:"#AAAFAD",
+    blue:"#1273de",
+    yellow:"#fb9e00",
+    containerbg:"#3e3f41",
+}
